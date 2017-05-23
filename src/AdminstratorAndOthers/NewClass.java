@@ -10,5 +10,6 @@ package AdminstratorAndOthers;
  * @author hp
  */
 public class NewClass {
+    int a;
     
 }
