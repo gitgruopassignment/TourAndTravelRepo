@@ -486,4 +486,9 @@ class Lake extends Tours {
             addTour();
         }
     }
-}
+        public void add(){
+        
+        
+        }
+    }
+
